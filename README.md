@@ -9,8 +9,8 @@
 
 ### 1. Setting up Continue extension
 
-- Download [**Continue**](https://www.continue.dev/) from the IDE's marketplace
-- Follow the video recording below to set up your Continue to work with Boin
+> - Download [**Continue**](https://www.continue.dev/) from the IDE's marketplace
+> - Follow the video recording below to set up your Continue to work with Boin
 
 ```
 {
@@ -30,18 +30,18 @@ https://github.com/samsonong/boin-sf-public/assets/5508315/cd0a62cb-17cd-4193-ad
 
 ### 2. Basic chat/question
 
-| Select "Boinboin Prod" as your model, and ask away!
+> Select "Boinboin Prod" as your model, and ask away!
 
 https://github.com/samsonong/boin-sf-public/assets/5508315/0f18a160-a2c6-4e2d-bce6-a36870a0a08c
 
 ### 3. Adding a chunk of code as context to your question
 
-| Highlight and press <kbd>CMD</kbd>+<kbd>L</kbd> (<kbd>CTRL</kbd>+<kbd>L</kbd> for Windows)
+> Highlight and press <kbd>CMD</kbd>+<kbd>L</kbd> (<kbd>CTRL</kbd>+<kbd>L</kbd> for Windows)
 
 https://github.com/samsonong/boin-sf-public/assets/5508315/7a6a69bb-a3db-4343-8aec-b9a5669261fb
 
 ### 4. Adding a file as context to your question
 
-| Typing @files will bring up a searchable list of files in your repo
+> Typing @files will bring up a searchable list of files in your repo
 
 https://github.com/samsonong/boin-sf-public/assets/5508315/8a83f9ca-1232-46df-9dee-a0cecc55d2c6
