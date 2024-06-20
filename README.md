@@ -30,7 +30,8 @@ https://github.com/samsonong/boin-sf-public/assets/5508315/cd0a62cb-17cd-4193-ad
 
 ### 2. Basic chat/question
 
-> Select "Boinboin Prod" as your model, and ask away!
+>  Select "Boinboin Prod" as your model, and ask away!
+>  If "Boinboin Prod" doesn't show up, restart your IDE
 
 https://github.com/samsonong/boin-sf-public/assets/5508315/0f18a160-a2c6-4e2d-bce6-a36870a0a08c
 
